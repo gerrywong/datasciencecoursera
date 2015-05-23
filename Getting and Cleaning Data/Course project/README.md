@@ -9,11 +9,11 @@ One of the most exciting areas in all of data science right now is wearable comp
 ##Files in this repository
 This repository contains three files:
 
-1. CodeBook.md
+1. [CodeBook.md](CodeBook.md)
 2. README.md
-3. run_analysis.R
+3. [run_analysis.R](run_analysis.R)
 
-###CodeBook.md
+###[CodeBook.md](CodeBook.md)
 The codebook describes the variables, the data, and any transformations or work performed to clean up the data and get it into a tidy data set.
 
 ###README.md

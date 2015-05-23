@@ -1,0 +1,22 @@
+# Apple DS_Store files
+.DS_Store
+*.DS_Store
+
+# History files
+.Rhistory
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+# RStudio files
+.Rproj.user/
+.Rproj.user
+
+#Rendered Rmarkdown files
+*.html
+
+# Swirl Course R Project
+swirl_courses.Rproj
